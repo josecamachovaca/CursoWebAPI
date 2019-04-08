@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Personas>
+  <Persona>
+    <id>1</id>
+    <nombre>jose camacho</nombre>
+    <email>josecamachovaca@gmail.com</email>
+  </Persona>
+  <Persona>
+    <id>2</id>
+    <nombre>ivan rodriguez</nombre>
+    <email>irodrig@gmail.com</email>
+  </Persona>
+  <Persona>
+    <id>3</id>
+    <nombre>chuy peregrina</nombre>
+    <email>peregrinaj@gmail.com</email>
+  </Persona>
+</Personas>
