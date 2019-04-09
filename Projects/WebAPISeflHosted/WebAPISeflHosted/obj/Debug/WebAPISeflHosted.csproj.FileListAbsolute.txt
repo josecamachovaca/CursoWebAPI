@@ -1,0 +1,14 @@
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\WebAPISeflHosted.exe.config
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\obj\Debug\WebAPISeflHosted.csprojResolveAssemblyReference.cache
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\WebAPISeflHosted.exe
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\WebAPISeflHosted.pdb
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\Newtonsoft.Json.dll
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\System.Net.Http.Formatting.dll
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\System.Web.Http.dll
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\System.Web.Http.SelfHost.dll
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\Newtonsoft.Json.xml
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\System.Net.Http.Formatting.xml
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\System.Web.Http.xml
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\bin\Debug\System.Web.Http.SelfHost.xml
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\obj\Debug\WebAPISeflHosted.exe
+C:\temp\CursoWebAPI\Projects\WebAPISeflHosted\WebAPISeflHosted\obj\Debug\WebAPISeflHosted.pdb
